@@ -1,0 +1,17 @@
+How many games do you want to play : ... 3
+********************************
+Game 1 of 3
+********************************
+Your hand:
+7 of spades
+J of hearts
+Value: 17
+
+Dealer's hand: 
+hidden
+Q of hearts
+
+Please choose 'Hit' or 'stand' : ... h
+
+        
+
